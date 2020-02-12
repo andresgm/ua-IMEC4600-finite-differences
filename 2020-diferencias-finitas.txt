@@ -1,0 +1,23 @@
+---
+title: Diferencias Finitas
+subtitle: Notas de Clase
+author: Andrés González Mancera
+date: 2020-01-03
+bibliography: zotero.bib 
+geometry:
+- margin=3cm
+numbersections: true
+lang: es-CO
+titlepage: true
+titlepage-text-color: '002d62'
+titlepage-rule-color: 'FF9f00'
+titlepage-rule-height: 4
+logo: "uniandes.pdf"
+logo-width: 200
+...
+
+[//]: # icloud:/text/2020-diferencias-finitas.txt
+[//2]: # pandoc -F pandoc-crossref -F pandoc-citeproc --template eisvogel 2020-diferencias-finitas.txt -o 2020-diferencias-finitas.pdf
+
+# Introducción
+
